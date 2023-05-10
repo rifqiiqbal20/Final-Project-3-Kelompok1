@@ -313,7 +313,7 @@ body {
 }
 .group-2 {
   position: absolute;
-  width: 100%;
+  width: 1440px;
   height: 2392px;
   left: 0px;
   top: 1449px;
@@ -798,7 +798,7 @@ img:hover {
 }
 .footer {
   position: absolute;
-  width: 100%;
+  width: 1440px;
   height: 25px;
   left: 0px;
   top: 4531px;
